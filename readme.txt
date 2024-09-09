@@ -1,4 +1,4 @@
-שם המגישים:
-דניאל גרבי
-נתנאל מישל
+# AUTHORS
+- Daniel Jerbi
+- Netanel Michel
  
